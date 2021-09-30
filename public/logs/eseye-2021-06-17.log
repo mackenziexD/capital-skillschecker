@@ -1,0 +1,4 @@
+[2021-06-17T13:15:17.524835+00:00] eseye.INFO: [http 200, ok] post -> https://login.eveonline.com/oauth/token/?grant_type=refresh_token [t/e: 0.07s/]
+[2021-06-17T13:15:17.550683+00:00] eseye.INFO: [http 200, ok] get -> https://login.eveonline.com:443/oauth/verify/ [t/e: 0.03s/]
+[2021-06-17T13:15:17.650327+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/2118426333/?datasource=tranquility [t/e: 0.10s/100]
+[2021-06-17T13:15:17.884618+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/2118426333/skills/?datasource=tranquility [t/e: 0.23s/100]
